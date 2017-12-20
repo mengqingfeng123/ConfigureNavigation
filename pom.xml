@@ -58,7 +58,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.sample.http.ServerTest</mainClass>
+                            <mainClass>com.choice.http.ServerTest</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
