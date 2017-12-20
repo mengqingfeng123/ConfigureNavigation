@@ -44,8 +44,12 @@
 
 >>> ###   3.1.3 location标签
 
->>> location标签中填写所需配置文件的地址。`注：此地址需填写绝对路径，路径的间隔符需用“/”`<br> 
-![image](https://github.com/posTeamBOH/ConfigureNavigation/blob/master/img/3.png)
+>>> location标签中填写所需配置文件的地址。<br> 
+
+>>> `注：此地址需填写绝对路径或相对于用户的当前工作目录:System.getProperty("user.dir")， 路径的间隔符需用“/”`<br> 
+>>> 相对位置：![image](https://github.com/mengqingfeng123/ConfigureNavigation/blob/master/img/3.png)
+
+>>> 绝对位置：![image](https://github.com/mengqingfeng123/ConfigureNavigation/blob/master/img/17.png)
 >>> ### 3.1.4 step标签
 
 >>> step标签是用来存储每一步所配置的数据。name为每一步的名字。<br>
