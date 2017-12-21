@@ -78,7 +78,7 @@
 
 >>>> #### 3.1.8.1 Affected标签
 
->>>> Affected标签为被Affect标签的数据。id为key，value为默认值。<br> 
+>>>> Affected标签为被Affect标签影响的数据。id为key，value为默认值。<br> 
 ![image](https://github.com/posTeamBOH/ConfigureNavigation/blob/master/img/16.png)
 
 
