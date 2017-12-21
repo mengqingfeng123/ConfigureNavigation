@@ -9,16 +9,16 @@
 > #  1 引入此jar包到项目中
 > # 2 在pom中添加依赖
 
-![image](https://github.com/posTeamBOH/ConfigureNavigation/blob/master/img/1.png)
+![image](https://github.com/mengqingfeng123/ConfigureNavigation/blob/master/img/dependency.png)
 > # 3 在resource根目录下创建ChoiceNavigation.xml文件并进行配置
-![image](https://github.com/posTeamBOH/ConfigureNavigation/blob/master/img/2.png)
+![image](https://github.com/mengqingfeng123/ConfigureNavigation/blob/master/img/filelocation.png)
 
 > # 此文件中需要配置许多标签，以下介绍各种标签的用法。
 > 注：<br>
 
 > 1.标签中带ping=“ping”属性的为需要ping通后才能保存的信息，且必须成对出现，ip的pingid为0，port为1;<br> 
 
-![image](https://github.com/posTeamBOH/ConfigureNavigation/blob/master/img/8.png)
+![image](https://github.com/mengqingfeng123/ConfigureNavigation/blob/master/img/ping.png)
 > 2.type属性为notnull的，用户填写配置信息时不能为空;<br>
 
 ![image](https://github.com/posTeamBOH/ConfigureNavigation/blob/master/img/6.png)
