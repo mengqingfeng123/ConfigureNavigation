@@ -26,10 +26,22 @@
     </step>
     <step name="订单备份路径">
         <!--文本框输入框-->
+
+
+
+
+
+
+
+
         <Affect id="center-data-dir" text="订单备份路径" value="D:\\filedir" type="folder" >
             <Affected id="cacheFilePath" value="D:\\filedir\\cacheFile"></Affected>
             <Affected id="historyFile" value="D:\\filedir\\historycacheFile"></Affected>
         </Affect>
+
+
+
+
 
     </step>
     <step name="mq配置">
